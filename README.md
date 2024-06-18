@@ -4,5 +4,5 @@
   
   -🌱 Atualmente, estou aprofundando meus conhecimentos em Java e Python.
   
-  -💞️ Participei recentemente de um projeto interessante onde integramos um chatbot com o WhatsApp.
+  - Participei recentemente de um projeto interessante onde integramos um chatbot com o WhatsApp.
   
