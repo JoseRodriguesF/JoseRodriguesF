@@ -4,5 +4,5 @@
   
   -🌱 Atualmente, estou aprofundando meus conhecimentos em Java e Python.
   
-  -💞 Participei recentemente de dois projetos utilizando IA, onde integramos um chatbot com o WhatsApp e um projeto onde recriei o ChatGPT comu umas funcionalidade a mais para o usuario utilizando a API da OpenAI.
+  -💞 Participei recentemente de dois projetos utilizando IA, onde integramos um chatbot com o WhatsApp e um projeto onde recriei o ChatGPT com umas funcionalidade a mais para o usuario utilizando a API da OpenAI.
   
