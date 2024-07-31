@@ -7,7 +7,7 @@
 
 ## Ferramentas e Tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,nextjs,python,git&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=java,python,git&perline=5" alt="Tech Stack" /> 
 
 ## Contatos:
 
