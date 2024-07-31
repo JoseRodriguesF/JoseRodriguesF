@@ -1,8 +1,10 @@
-👋 Olá, sou José, estudante de programação back-end
+<! --
+**JoseRodriguesF/JoseRodriguesF** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
-  -👀 Estou interessado em explorar mais sobre Data Science, Machine Learning e IA´s
-  
-  -🌱 Atualmente, estou aprofundando meus conhecimentos em Java e Python.
-  
-  -💞 Participei recentemente de dois projetos utilizando IA, onde integramos um chatbot com o WhatsApp e um projeto onde recriei o ChatGPT com umas funcionalidade a mais para o usuario utilizando a API da OpenAI.
-  
+Aqui estão algumas idéias para você começar:
+
+- 🌱 Atualmente estou aprendendo Python para Data Science e Java
+- 👯 Estou procurando colaborar em projetos que envolvam implantação de Inteligencia Artificial para automações e ChatBot
+- ⚡ Curiosidade: Participei de um projeto de Implementação de ChatBot com WhatsApp e um projeto baseado no ChatGPT utilizando a API da OpenAI
+- 📫 Como entrar em contato comigo: jose.antonio.220507@gmail.com
+-->
