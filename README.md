@@ -4,7 +4,7 @@
 
 - 👯 Estou procurando colaborar em projetos que envolvam implantação de Inteligencia Artificial para automações e ChatBot
 
-- ⚡ Experiência: Participei de um projeto de Implementação de ChatBot com WhatsApp e um projeto baseado no ChatGPT utilizando a API da OpenAI
+- ⚡ Experiência: Participei de um projeto baseado no ChatGPT utilizando a API da OpenAI
 
 - 📫 Como entrar em contato comigo: jose.antonio.220507@gmail.com
 
