@@ -4,7 +4,7 @@
 Eu sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento de APIs REST e Restful. Tenho experiência em Java e Node.js, e estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
 ## Tecnologias e Ferramentas
-- **Linguagens de Programação:** Java, Node.js
+- **Linguagens de Programação:** Java, Node.js, Python
 - **Desenvolvimento de APIs:** REST, Restful
 - **Automação:** Inteligência Artificial, Chatbots, Agentes Personalizados
 
@@ -12,12 +12,12 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento d
 Aqui estão alguns dos projetos em que tenho trabalhado:
 
 1. **API de Gestão de Tarefas**
-   - **Descrição:** Uma API RESTful para gerenciar tarefas e projetos.
+   - **Descrição:** Uma API RESTful para postar textos.
    - **Tecnologias:** Java, Spring Boot, MySQL
 
 2. **Chatbot de Atendimento ao Cliente**
-   - **Descrição:** Um chatbot inteligente para atendimento ao cliente, utilizando IA para responder perguntas frequentes.
-   - **Tecnologias:** Node.js, Dialogflow, MongoDB
+   - **Descrição:** Um chatbot inteligente para conversar e dar auxilio psicológico.
+   - **Tecnologias:** Node.js, PostgreeSQL e GroqAPI.
 
 3. **Automação de Processos**
    - **Descrição:** Soluções de automação para melhorar a eficiência de processos empresariais.
@@ -39,6 +39,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRodriguesF&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseRodriguesF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+   
 ## Contato
 - **Email:** [seu-email@gmail.com](mailto:seu-email@gmail.com)
 - **LinkedIn:** [linkedin.com/in/joserodrigues](https://www.linkedin.com/in/joserodrigues)
