@@ -11,8 +11,8 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento d
 ## Projetos
 Aqui estão alguns dos projetos em que tenho trabalhado:
 
-1. **API de Gestão de Tarefas**
-   - **Descrição:** Uma API RESTful para postar textos.
+1. **API de Postagem de mesnagens**
+   - **Descrição:** Uma API RESTful para postar mensagens.
    - **Tecnologias:** Java, Spring Boot, MySQL
 
 2. **Chatbot de Atendimento ao Cliente**
@@ -21,7 +21,7 @@ Aqui estão alguns dos projetos em que tenho trabalhado:
 
 3. **Automação de Processos**
    - **Descrição:** Soluções de automação para melhorar a eficiência de processos empresariais.
-   - **Tecnologias:** Python, RPA (Automação de Processos Robóticos), IA
+   - **Tecnologias:** Python, IA
 ## Ferramentas e Tecnologias
 
 <img src="https://skillicons.dev/icons?i=java,python,git,github&perline=5" alt="Tech Stack" /> 
