@@ -41,8 +41,8 @@ Aqui estão alguns dos projetos em que tenho trabalhado:
 </div>
    
 ## Contato
-- **Email:** [seu-email@gmail.com](mailto:seu-email@gmail.com)
-- **LinkedIn:** [linkedin.com/in/joserodrigues](https://www.linkedin.com/in/joserodrigues)
+- **Email:** [seu-email@gmail.com](mailto:jose.antonio.220507@gmail.com)
+- **LinkedIn:** [linkedin.com/in/joserodrigues](https://www.linkedin.com/in/joseantonio7)
 - **GitHub:** [github.com/JoseRodriguesF](https://github.com/JoseRodriguesF)
 
 Sinta-se à vontade para entrar em contato comigo ou explorar meus repositórios para ver mais do meu trabalho!
