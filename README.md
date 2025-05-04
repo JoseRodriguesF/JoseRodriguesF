@@ -7,13 +7,7 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento d
 - **Linguagens de Programação:** Java, Node.js, Python
 - **Desenvolvimento de APIs:** REST, Restful
 - **Automação:** Inteligência Artificial, Chatbots, Agentes Personalizados
-
-## Projetos
-Aqui estão alguns dos projetos em que tenho trabalhado:
-
-1. **Automação de Processos**
-   - **Descrição:** Soluções de automação para melhorar a eficiência de processos empresariais.
-   - **Tecnologias:** Python, IA
+- 
 ## Ferramentas e Tecnologias
 
 <img src="https://skillicons.dev/icons?i=java,python,git,github&perline=5" alt="Tech Stack" /> 
