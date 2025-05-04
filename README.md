@@ -11,15 +11,7 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento d
 ## Projetos
 Aqui estão alguns dos projetos em que tenho trabalhado:
 
-1. **API de Postagem de mesnagens**
-   - **Descrição:** Uma API RESTful para postar mensagens.
-   - **Tecnologias:** Java, Spring Boot, MySQL
-
-2. **Chatbot de Atendimento ao Cliente**
-   - **Descrição:** Um chatbot inteligente para conversar e dar auxilio psicológico.
-   - **Tecnologias:** Node.js, PostgreeSQL e GroqAPI.
-
-3. **Automação de Processos**
+1. **Automação de Processos**
    - **Descrição:** Soluções de automação para melhorar a eficiência de processos empresariais.
    - **Tecnologias:** Python, IA
 ## Ferramentas e Tecnologias
