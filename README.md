@@ -9,8 +9,11 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento d
 - **Automação:** Inteligência Artificial, Chatbots, Agentes Personalizados
 - 
 ## Ferramentas e Tecnologias
-
-<img src="https://skillicons.dev/icons?i=java,python,git,github&perline=5" alt="Tech Stack" /> 
+- Java
+- NodeJS
+- Spring Boot
+- Python
+- Git
 
 ## Contatos:
 
