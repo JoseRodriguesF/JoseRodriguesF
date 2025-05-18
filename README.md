@@ -7,7 +7,6 @@ Eu sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento d
 - **Linguagens de Programação:** Java, Node.js, Python
 - **Desenvolvimento de APIs:** REST, Restful
 - **Automação:** Inteligência Artificial, Chatbots, Agentes Personalizados
-- 
 ## Ferramentas e Tecnologias
 - Java
 - NodeJS
