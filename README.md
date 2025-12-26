@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006F88&height=150&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=35&fontColor=F0F0F0&fontAlignY=30"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006F88&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+José+Rodrigues+;Tenho+anos;Sou+do+Brasil,+SP;Sou+desenvolvedor+Back-end+em+Java+e+NodeJS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006F88&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+José+Rodrigues+;Tenho+18+anos;Sou+do+Brasil,+SP;Sou+desenvolvedor+Back-end)](https://git.io/typing-svg)
 
 ---
 
@@ -62,8 +62,8 @@ Tenho como objetivo aplicar inteligência artificial para automatizar tarefas e 
 
 <div align="justify">
 <strong>💬 Fale comigo!</strong><br>📩 Sinta-se à vontade para entrar em contato através das plataformas abaixo:<br><br>
-<a href="mailto:jose.antonio.220507@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/joseantonio7">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:jose.antonio.220507@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/joseantonio7"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006F88&height=120&section=footer"/>
