@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006F88&height=150&section=header&text=Bem-vindo+ao+meu+GitHub!&fontSize=35&fontColor=F0F0F0&fontAlignY=30"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006F88&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+José+Rodrigues+;Tenho+18+anos;Sou+do+Brasil,+SP;Sou+desenvolvedor+Back-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006F88&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+José+Rodrigues+;Tenho+19+anos;Sou+do+Brasil,+SP;Sou+desenvolvedor+Back-end)](https://git.io/typing-svg)
 
 ---
 
