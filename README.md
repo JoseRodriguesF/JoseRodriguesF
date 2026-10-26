@@ -1,6 +1,5 @@
 # José Antônio Rodrigues Feitosa
 **Desenvolvedor de Software Back-End**  
-📍 São Paulo, SP
 
 ---
 
@@ -8,12 +7,12 @@
 
 Desenvolvedor de Software Back-End e estudante de **Ciência da Computação (UNIP)** e **Técnico em Desenvolvimento de Sistemas (SENAI Suíço-Brasileiro)**. Atuo no desenvolvimento de APIs corporativas, microsserviços resilientes, sustentação de infraestrutura crítica e integração de sistemas de Inteligência Artificial (LLMs/SLMs locais via Ollama, RAG, Whisper STT e Model Context Protocol — MCP).
 
-- 🏛️ **Atuação Atual:** Desenvolvedor Fullstack / Back-End & Infraestrutura de TI na **SOBEI** e Fundador da **Suporte In Tech**.
-- ⚙️ **Foco Técnico:** Arquitetura de sistemas escaláveis e seguros em **Java (Spring Boot)**, **TypeScript/Node.js (Fastify / Express)** e **Python (FastAPI)**, bancos de dados relacionais (**PostgreSQL / MySQL**), containerização (**Docker**) e governança corporativa (**ServiceNow CSA & Microsoft SC-900**).
+- **Atuação Atual:** Desenvolvedor Fullstack / Back-End & Infraestrutura de TI na **SOBEI** e Fundador da **Suporte In Tech**.
+- **Foco Técnico:** Arquitetura de sistemas escaláveis e seguros em **Java (Spring Boot)**, **TypeScript/Node.js (Fastify / Express)** e **Python (FastAPI)**, bancos de dados relacionais (**PostgreSQL / MySQL**), containerização (**Docker**) e governança corporativa (**ServiceNow CSA & Microsoft SC-900**).
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 #### Linguagens & Back-End
 <div>
@@ -55,7 +54,7 @@ Desenvolvedor de Software Back-End e estudante de **Ciência da Computação (UN
 
 ---
 
-### 📂 Principais Projetos
+###  Principais Projetos
 
 - **Ecossistema Digital SOBEI (`api.sobei.org.br`):** API corporativa central em **Java 21 + Spring Boot 4**, PostgreSQL, Spring Security (JWT), Flyway Migrations, SpringDoc OpenAPI e geração de documentos via OpenPDF.
 - **[Matriarca Telemedicina](https://github.com/JoseRodriguesF/telemedicina_api):** Plataforma de saúde híbrida e prontuário digital em **Node.js, TypeScript, Fastify, Prisma e PostgreSQL**, com triagem clínica por IA (*Angélica*), transcrição em tempo real via Whisper STT, teleconsulta P2P via WebRTC e deploy em Google Cloud Run.
@@ -64,7 +63,7 @@ Desenvolvedor de Software Back-End e estudante de **Ciência da Computação (UN
 
 ---
 
-### 📫 Contato
+###  Contato
 
 <div>
   <a href="https://www.linkedin.com/in/joseantonio7" target="_blank">
