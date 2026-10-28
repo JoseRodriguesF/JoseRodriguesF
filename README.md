@@ -53,16 +53,6 @@ Desenvolvedor de Software Back-End e estudante de **Ciência da Computação (UN
 </div>
 
 ---
-
-###  Principais Projetos
-
-- **Ecossistema Digital SOBEI (`api.sobei.org.br`):** API corporativa central em **Java 21 + Spring Boot 4**, PostgreSQL, Spring Security (JWT), Flyway Migrations, SpringDoc OpenAPI e geração de documentos via OpenPDF.
-- **[Matriarca Telemedicina](https://github.com/JoseRodriguesF/telemedicina_api):** Plataforma de saúde híbrida e prontuário digital em **Node.js, TypeScript, Fastify, Prisma e PostgreSQL**, com triagem clínica por IA (*Angélica*), transcrição em tempo real via Whisper STT, teleconsulta P2P via WebRTC e deploy em Google Cloud Run.
-- **[MindTracking API](https://github.com/JoseRodriguesF/mindtracking-api):** Backend em arquitetura MVC desacoplada (**Node.js, Express, Prisma, PostgreSQL**) com assistente conversacional *Athena* (OpenAI SDK), autenticação JWT/Bcrypt, verificação 2FA por e-mail e relatórios clínicos em PDF.
-- **[API Registro Users](https://github.com/JoseRodriguesF/api_registro_users):** Microsserviço resiliente em **Java 21 + Spring Boot + MySQL**, com tratamento global de exceções (`@ControllerAdvice` / RFC 7807) e Jakarta Bean Validation.
-
----
-
 ###  Contato
 
 <div>
